@@ -7,6 +7,7 @@ const Home: React.FC = () => {
     <div>
       <h1>{t('main')}</h1>
       <p>{t('sentence1')}</p>
+      <p>{t('theText')}</p>
     </div>
   );
 };
