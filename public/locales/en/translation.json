@@ -1,0 +1,9 @@
+{
+  "welcome": "Welcome to Vite + React + TypeScript + i18n",
+  "sentence1": "The sun is shining brightly in the clear blue sky.",
+  "sentence2": "A gentle breeze is blowing through the green trees.",
+  "sentence3": "Children are playing joyfully in the park.",
+  "main": "Main Page",
+  "about": "About Us",
+  "contacts": "Contacts"
+}
